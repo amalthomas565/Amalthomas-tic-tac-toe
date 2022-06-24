@@ -1,0 +1,59 @@
+
+    h1 {
+        color: orangered;
+        text-shadow: 3px 4px rgb(155, 56, 138);
+        box-shadow: 1px 10px 10px 1px rgb(167, 56, 56);
+        font-size: 45px;
+        background-color: rgb(163, 225, 236);
+    }
+    #b1, #b2, #b3, #b4, #b5,
+    #b6, #b7, #b8, #b9 {
+        width: 80px;
+        height: 52px;
+        margin: auto;
+        border: 1px solid gray;
+        border-radius: 6px;
+        font-size: 30px;
+        text-align: center;
+        background-color: blanchedalmond;
+    }
+    #but {
+        box-sizing: border-box;
+        width: 95px;
+        height: 40px;
+        border: 1px solid rgb(201, 204, 33);
+        margin: auto;
+        border-radius: 4px;
+        font-family: Verdana,
+            Geneva, Tahoma, sans-serif;
+ 
+        background-color: rgb(155, 56, 138);
+        color: white;
+        font-size: 20px;
+        cursor: pointer;
+    }
+    #print {
+        font-family: Verdana,
+            Geneva, Tahoma, sans-serif;
+ 
+        color: dodgerblue;
+        font-size: 20px;
+    }
+    #main {
+        text-align: center;
+        text-decoration-color: rebeccapurple;
+    }
+ 
+    #ins {
+        font-family: Verdana,
+            Geneva, Tahoma, sans-serif;
+             
+        color: rgb(36, 7, 7);
+        font-size: 20px;
+    }
+    #change{
+        font-size: 20px;
+        text-align: right;
+        text-decoration: line-through;
+        font-family: 'Brush Script MT', cursive
+    }
